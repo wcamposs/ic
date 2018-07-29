@@ -1,0 +1,167 @@
+{
+    "CURRICULO-VITAE": {
+        "DADOS-GERAIS": {
+            "ENDERECO": {
+                "ENDERECO-PROFISSIONAL": {
+                    "_CODIGO-INSTITUICAO-EMPRESA": "",
+                    "_NOME-INSTITUICAO-EMPRESA": "",
+                    "_CODIGO-ORGAO": "",
+                    "_NOME-ORGAO": "",
+                    "_CODIGO-UNIDADE": "",
+                    "_NOME-UNIDADE": "",
+                    "_LOGRADOURO-COMPLEMENTO": "",
+                    "_PAIS": "",
+                    "_UF": "",
+                    "_CEP": "",
+                    "_CIDADE": "",
+                    "_BAIRRO": "",
+                    "_DDD": "",
+                    "_TELEFONE": "",
+                    "_RAMAL": "",
+                    "_FAX": "",
+                    "_CAIXA-POSTAL": "",
+                    "_HOME-PAGE": ""
+                },
+                "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+            },
+            "FORMACAO-ACADEMICA-TITULACAO": {
+                "GRADUACAO": {
+                    "_SEQUENCIA-FORMACAO": "2",
+                    "_NIVEL": "1",
+                    "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "",
+                    "_NOME-DO-ORIENTADOR": "",
+                    "_CODIGO-INSTITUICAO": "004300000009",
+                    "_NOME-INSTITUICAO": "Universidade Federal de Santa Catarina",
+                    "_CODIGO-ORGAO": "",
+                    "_NOME-ORGAO": "",
+                    "_CODIGO-CURSO": "90000001",
+                    "_NOME-CURSO": "Ciência da Informação",
+                    "_CODIGO-AREA-CURSO": "90000001",
+                    "_STATUS-DO-CURSO": "EM_ANDAMENTO",
+                    "_ANO-DE-INICIO": "2016",
+                    "_ANO-DE-CONCLUSAO": "",
+                    "_FLAG-BOLSA": "NAO",
+                    "_CODIGO-AGENCIA-FINANCIADORA": "",
+                    "_NOME-AGENCIA": "",
+                    "_NUMERO-ID-ORIENTADOR": "",
+                    "_CODIGO-CURSO-CAPES": "",
+                    "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+                    "_NOME-CURSO-INGLES": "",
+                    "_FORMACAO-ACADEMICA-TITULACAO": "",
+                    "_TIPO-GRADUACAO": "N",
+                    "_CODIGO-INSTITUICAO-GRAD": "",
+                    "_NOME-INSTITUICAO-GRAD": "",
+                    "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
+                    "_NOME-INSTITUICAO-OUTRA-GRAD": "",
+                    "_NOME-ORIENTADOR-GRAD": ""
+                },
+                "ENSINO-MEDIO-SEGUNDO-GRAU": {
+                    "_SEQUENCIA-FORMACAO": "1",
+                    "_NIVEL": "C",
+                    "_CODIGO-INSTITUICAO": "000100000991",
+                    "_NOME-INSTITUICAO": "Escola Estadual de Ensino Fundamental e Médio Julio Guerra",
+                    "_STATUS-DO-CURSO": "CONCLUIDO",
+                    "_ANO-DE-INICIO": "2008",
+                    "_ANO-DE-CONCLUSAO": "2012"
+                }
+            },
+            "IDIOMAS": {
+                "IDIOMA": [
+                    {
+                        "_IDIOMA": "EN",
+                        "_DESCRICAO-DO-IDIOMA": "Inglês",
+                        "_PROFICIENCIA-DE-LEITURA": "RAZOAVELMENTE",
+                        "_PROFICIENCIA-DE-FALA": "RAZOAVELMENTE",
+                        "_PROFICIENCIA-DE-ESCRITA": "RAZOAVELMENTE",
+                        "_PROFICIENCIA-DE-COMPREENSAO": "RAZOAVELMENTE"
+                    },
+                    {
+                        "_IDIOMA": "ES",
+                        "_DESCRICAO-DO-IDIOMA": "Espanhol",
+                        "_PROFICIENCIA-DE-LEITURA": "RAZOAVELMENTE",
+                        "_PROFICIENCIA-DE-FALA": "POUCO",
+                        "_PROFICIENCIA-DE-ESCRITA": "POUCO",
+                        "_PROFICIENCIA-DE-COMPREENSAO": "RAZOAVELMENTE"
+                    },
+                    {
+                        "_IDIOMA": "FR",
+                        "_DESCRICAO-DO-IDIOMA": "Francês",
+                        "_PROFICIENCIA-DE-LEITURA": "POUCO",
+                        "_PROFICIENCIA-DE-FALA": "POUCO",
+                        "_PROFICIENCIA-DE-ESCRITA": "POUCO",
+                        "_PROFICIENCIA-DE-COMPREENSAO": "POUCO"
+                    }
+                ]
+            },
+            "_NOME-COMPLETO": "Willian Campos da Silva",
+            "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "SILVA, W. C.",
+            "_NACIONALIDADE": "B",
+            "_PAIS-DE-NASCIMENTO": "Brasil",
+            "_UF-NASCIMENTO": "SC",
+            "_CIDADE-NASCIMENTO": "Joinville",
+            "_PERMISSAO-DE-DIVULGACAO": "NAO",
+            "_DATA-FALECIMENTO": "",
+            "_SIGLA-PAIS-NACIONALIDADE": "BRA",
+            "_PAIS-DE-NACIONALIDADE": "Brasil"
+        },
+        "PRODUCAO-BIBLIOGRAFICA": "",
+        "PRODUCAO-TECNICA": "",
+        "OUTRA-PRODUCAO": "",
+        "DADOS-COMPLEMENTARES": {
+            "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+                "INFORMACAO-ADICIONAL-INSTITUICAO": [
+                    {
+                        "_CODIGO-INSTITUICAO": "000100000991",
+                        "_SIGLA-INSTITUICAO": "JG",
+                        "_SIGLA-UF-INSTITUICAO": "",
+                        "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                        "_NOME-PAIS-INSTITUICAO": "Brasil",
+                        "_FLAG-AGENCIA-FOMENTO": "NAO",
+                        "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+                    },
+                    {
+                        "_CODIGO-INSTITUICAO": "004300000009",
+                        "_SIGLA-INSTITUICAO": "UFSC",
+                        "_SIGLA-UF-INSTITUICAO": "SC",
+                        "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                        "_NOME-PAIS-INSTITUICAO": "Brasil",
+                        "_FLAG-AGENCIA-FOMENTO": "NAO",
+                        "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+                    }
+                ]
+            },
+            "INFORMACOES-ADICIONAIS-CURSOS": {
+                "INFORMACAO-ADICIONAL-CURSO": [
+                    {
+                        "_CODIGO-CURSO": "90000000",
+                        "_CODIGO-ORGAO": "",
+                        "_NOME-ORGAO": "",
+                        "_CODIGO-INSTITUICAO": "004300000009",
+                        "_NOME-INSTITUICAO": "Universidade Federal de Santa Catarina",
+                        "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+                        "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+                        "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                        "_NOME-DA-ESPECIALIDADE": "",
+                        "_NIVEL-CURSO": "GRADUACAO"
+                    },
+                    {
+                        "_CODIGO-CURSO": "90000001",
+                        "_CODIGO-ORGAO": "",
+                        "_NOME-ORGAO": "",
+                        "_CODIGO-INSTITUICAO": "004300000009",
+                        "_NOME-INSTITUICAO": "Universidade Federal de Santa Catarina",
+                        "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_SOCIAIS_APLICADAS",
+                        "_NOME-DA-AREA-DO-CONHECIMENTO": "Ciência da Informação",
+                        "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                        "_NOME-DA-ESPECIALIDADE": "",
+                        "_NIVEL-CURSO": "GRADUACAO"
+                    }
+                ]
+            }
+        },
+        "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+        "_NUMERO-IDENTIFICADOR": "1234012703827718",
+        "_DATA-ATUALIZACAO": "21092016",
+        "_HORA-ATUALIZACAO": "140357"
+    }
+}
